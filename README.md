@@ -1,6 +1,7 @@
 DIY: External rechargeable power pack for Wildlife Acoustics Song Meter
 ===
 &ensp;&ensp;Song Meter SM3 and SM4 families made by [Wildlife Acoustics](https://www.wildlifeacoustics.com/) are very good schedulable recorders for monitoring the acoustic and ultrasonic soundscape. But when we used the internal battery bay with 4 high capacity D size disposable alkaline batteries ([Panasonic Pro Power D](https://www.panasonic-batteries.com/en/alkaline/pro-power/pro-power-d)), the SM4 recorder will work no more than 4 weeks when it was scheduled to 1 minute on and 2 minutes off for 24 hours every day. If the batteries were replaced with NiMH rechargeable batteries, it can work less than two weeks. And when using external power cable and a 12V lead–acid batter for SM4BAT-FS, we always got the problems of incomplete recordings. 
+
 &ensp;&ensp;So, we made a external, replaceable, waterproof, and all-weather battery pack with rechargeable 18650 Li-ion batteries. It can be used for more than one month with the schedule we needed and can be recharged for more than 1000 times.
 
 # Overview
